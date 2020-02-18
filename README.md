@@ -11,9 +11,10 @@ pygame
 win32api
 
 ## exe下载地址
-百度云链接：https://pan.baidu.com/s/1ATZ_OxRTJYJ8o3aj27Dv4w 
+百度云链接：https://pan.baidu.com/s/1siitJTjXKTrw4VZGRlvyPA 
 
-提取码：i7qm 
+提取码：efrl 
+
 
 ## 赖美云世界第一可爱
 
