@@ -7,7 +7,7 @@ exe百度云链接：https://pan.baidu.com/s/1siitJTjXKTrw4VZGRlvyPA
 
 摸鱼码的一个华容道拼图游戏
 
-难度可在def puzzleinit()中修改打乱次数调整
+难度可在 def puzzleinit() 中修改打乱次数调整
 
 ## Request
 pygame
